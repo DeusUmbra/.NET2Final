@@ -1,0 +1,14 @@
+E:\Net2\FinalProjectTV\FinalProjectTV\bin\Debug\GameInfo.mdf
+E:\Net2\FinalProjectTV\FinalProjectTV\bin\Debug\GameInfo_log.ldf
+E:\Net2\FinalProjectTV\FinalProjectTV\bin\Debug\FinalProjectTV.exe.config
+E:\Net2\FinalProjectTV\FinalProjectTV\bin\Debug\FinalProjectTV.exe
+E:\Net2\FinalProjectTV\FinalProjectTV\bin\Debug\FinalProjectTV.pdb
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.csprojAssemblyReference.cache
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.HighscoreForm.resources
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.MainForm.resources
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.Properties.Resources.resources
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.csproj.GenerateResource.cache
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.exe
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.pdb
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.GameOverForm.resources
+E:\Net2\FinalProjectTV\FinalProjectTV\obj\Debug\FinalProjectTV.csproj.CoreCompileInputs.cache
